@@ -77,34 +77,7 @@
             "image3": "https://qore-production-3a-clv-i7kr-ctd-v-p-j.s3.ap-southeast-1.amazonaws.com/22f01561-95b7-4d9a-89d6-5b99a5280dc5/Uj6qECifOgtyFRIJXmorF.png",
             "image4": "https://qore-production-3a-clv-i7kr-ctd-v-p-j.s3.ap-southeast-1.amazonaws.com/22f01561-95b7-4d9a-89d6-5b99a5280dc5/j0Fr5XhXopLFrwAxTNQM2.png",
             "image5": "https://qore-production-3a-clv-i7kr-ctd-v-p-j.s3.ap-southeast-1.amazonaws.com/22f01561-95b7-4d9a-89d6-5b99a5280dc5/wVrN68UwQt5MXpB7q4ItB.png"
-        },
-        {
-            "id": "086486bc-c8fe-4649-82be-90b0cbee54f31",
-            "createdAt": "2021-03-24T06:19:15.928Z",
-            "updatedAt": "2021-03-24T06:19:15.928Z",
-            "name": "Chair Thatty",
-            "description": "Tailored to a level of perfection synonymous with that of a Savile Row suit and with understated quality in the detail, Jetty has been influenced by timeless 1950s style.  Providing a subtle nod to the past, Jetty also provides a perfect solution for the way we work today.  A comprehensive product family, Jetty features a variety of elegant chairs and sofas.",
-            "price": 12000000,
-            "image1": "https://qore-production-3a-clv-i7kr-ctd-v-p-j.s3.ap-southeast-1.amazonaws.com/22f01561-95b7-4d9a-89d6-5b99a5280dc5/xi_IDKCUQwHwYjFj988QE.png",
-            "image2": "https://qore-production-3a-clv-i7kr-ctd-v-p-j.s3.ap-southeast-1.amazonaws.com/22f01561-95b7-4d9a-89d6-5b99a5280dc5/n88Xk5qu1EZnjC-G6UIAT.png",
-            "image3": "https://qore-production-3a-clv-i7kr-ctd-v-p-j.s3.ap-southeast-1.amazonaws.com/22f01561-95b7-4d9a-89d6-5b99a5280dc5/Uj6qECifOgtyFRIJXmorF.png",
-            "image4": "https://qore-production-3a-clv-i7kr-ctd-v-p-j.s3.ap-southeast-1.amazonaws.com/22f01561-95b7-4d9a-89d6-5b99a5280dc5/j0Fr5XhXopLFrwAxTNQM2.png",
-            "image5": "https://qore-production-3a-clv-i7kr-ctd-v-p-j.s3.ap-southeast-1.amazonaws.com/22f01561-95b7-4d9a-89d6-5b99a5280dc5/wVrN68UwQt5MXpB7q4ItB.png"
-        },
-        {
-            "id": "086486bc-c8fe-4649-82be-90b0cbee54f32",
-            "createdAt": "2021-03-24T06:19:15.928Z",
-            "updatedAt": "2021-03-24T06:19:15.928Z",
-            "name": "Chair Thatty",
-            "description": "Tailored to a level of perfection synonymous with that of a Savile Row suit and with understated quality in the detail, Jetty has been influenced by timeless 1950s style.  Providing a subtle nod to the past, Jetty also provides a perfect solution for the way we work today.  A comprehensive product family, Jetty features a variety of elegant chairs and sofas.",
-            "price": 12000000,
-            "image1": "https://qore-production-3a-clv-i7kr-ctd-v-p-j.s3.ap-southeast-1.amazonaws.com/22f01561-95b7-4d9a-89d6-5b99a5280dc5/xi_IDKCUQwHwYjFj988QE.png",
-            "image2": "https://qore-production-3a-clv-i7kr-ctd-v-p-j.s3.ap-southeast-1.amazonaws.com/22f01561-95b7-4d9a-89d6-5b99a5280dc5/n88Xk5qu1EZnjC-G6UIAT.png",
-            "image3": "https://qore-production-3a-clv-i7kr-ctd-v-p-j.s3.ap-southeast-1.amazonaws.com/22f01561-95b7-4d9a-89d6-5b99a5280dc5/Uj6qECifOgtyFRIJXmorF.png",
-            "image4": "https://qore-production-3a-clv-i7kr-ctd-v-p-j.s3.ap-southeast-1.amazonaws.com/22f01561-95b7-4d9a-89d6-5b99a5280dc5/j0Fr5XhXopLFrwAxTNQM2.png",
-            "image5": "https://qore-production-3a-clv-i7kr-ctd-v-p-j.s3.ap-southeast-1.amazonaws.com/22f01561-95b7-4d9a-89d6-5b99a5280dc5/wVrN68UwQt5MXpB7q4ItB.png"
         }
-        
     ],
     "totalCount": "7"
 }
