@@ -1,14 +1,31 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "nodes": [
+        {
+            "id": "086486bc-c8fe-4649-82be-90b0cbee54f3",
+            "createdAt": "2021-03-24T06:19:15.928Z",
+            "updatedAt": "2021-03-24T06:19:15.928Z",
+            "name": "Chair Thatty",
+            "description": "Tailored to a level of perfection synonymous with that of a Savile Row suit and with understated quality in the detail, Jetty has been influenced by timeless 1950s style.  Providing a subtle nod to the past, Jetty also provides a perfect solution for the way we work today.  A comprehensive product family, Jetty features a variety of elegant chairs and sofas.",
+            "price": 12000000,
+            "image1": "https://qore-production-3a-clv-i7kr-ctd-v-p-j.s3.ap-southeast-1.amazonaws.com/22f01561-95b7-4d9a-89d6-5b99a5280dc5/xi_IDKCUQwHwYjFj988QE.png",
+            "image2": "https://qore-production-3a-clv-i7kr-ctd-v-p-j.s3.ap-southeast-1.amazonaws.com/22f01561-95b7-4d9a-89d6-5b99a5280dc5/n88Xk5qu1EZnjC-G6UIAT.png",
+            "image3": "https://qore-production-3a-clv-i7kr-ctd-v-p-j.s3.ap-southeast-1.amazonaws.com/22f01561-95b7-4d9a-89d6-5b99a5280dc5/Uj6qECifOgtyFRIJXmorF.png",
+            "image4": "https://qore-production-3a-clv-i7kr-ctd-v-p-j.s3.ap-southeast-1.amazonaws.com/22f01561-95b7-4d9a-89d6-5b99a5280dc5/j0Fr5XhXopLFrwAxTNQM2.png",
+            "image5": "https://qore-production-3a-clv-i7kr-ctd-v-p-j.s3.ap-southeast-1.amazonaws.com/22f01561-95b7-4d9a-89d6-5b99a5280dc5/wVrN68UwQt5MXpB7q4ItB.png"
+        },
+        {
+            "id": "ebd8f938-6458-4dd8-9844-c996a2fd26ca",
+            "createdAt": "2021-04-04T12:00:35.744Z",
+            "updatedAt": "2021-04-04T12:00:35.744Z",
+            "name": "Pro Gamer",
+            "description": "An inspired palette of warm colours helps the highly  technical design achieve a timeless look. Pro chairs and stools share the same dependable, hard-working design that makes them fit for a wide variety of people and spaces. Both feature Cellular Suspension,  a highly engineered system of polymer cells and loops that support and respond to different areas of the body.",
+            "price": 52000000,
+            "image1": "https://qore-production-3a-clv-i7kr-ctd-v-p-j.s3.ap-southeast-1.amazonaws.com/22f01561-95b7-4d9a-89d6-5b99a5280dc5/sLOwFdyypwuD8HMgBwGBU.png",
+            "image2": "https://qore-production-3a-clv-i7kr-ctd-v-p-j.s3.ap-southeast-1.amazonaws.com/22f01561-95b7-4d9a-89d6-5b99a5280dc5/VLgirZdvQiFvBvkYbdWIg.png",
+            "image3": "https://qore-production-3a-clv-i7kr-ctd-v-p-j.s3.ap-southeast-1.amazonaws.com/22f01561-95b7-4d9a-89d6-5b99a5280dc5/p_68LJ3WD1b3wMUVfIZ3i.png",
+            "image4": "https://qore-production-3a-clv-i7kr-ctd-v-p-j.s3.ap-southeast-1.amazonaws.com/22f01561-95b7-4d9a-89d6-5b99a5280dc5/NlYXJep9Y5_srZrMGJ3Jy.png",
+            "image5": "https://qore-production-3a-clv-i7kr-ctd-v-p-j.s3.ap-southeast-1.amazonaws.com/22f01561-95b7-4d9a-89d6-5b99a5280dc5/uxEK7bWjF0ck_mP6GdEoL.png"
+        }
+    ],
+    "totalCount": "7"
 }
